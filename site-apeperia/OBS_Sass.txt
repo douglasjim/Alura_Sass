@@ -1,0 +1,8 @@
+Sass é basicamente um css que podemos criar variaveis para colocar cores e assim ficando facil mudar as cores das coisas que existe em um site
+Existe diferenca entre Sass e scss , o scss é mais parecido com o css ja o Sass nao
+ruby -v = versao do ruby
+csascript -e 'tell app "TextMate" to reload bundle'
+view - leyout -  coluns 2 = assim podemos separa a tela do sublime em 2s
+sass estilos.scss:estilos.css - para rodar
+sass --watch estilos.scss:estilos.css = assi  o arquivo sera alterado automaticamente o tempo todo sem precisar fazer o comando de troca sempre
+entao o sass =  scss apenas serve para facilitar quando formos colcoar cores em uma pagina com css nao perdendo tempo inserindo tag por tag e era cria uma pagina css com os valores que definimos no sass
